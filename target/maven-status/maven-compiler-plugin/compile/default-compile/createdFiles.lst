@@ -1,0 +1,6 @@
+faceTools\FaceTools.class
+faceTools\detect_demo.class
+faceTools\Box.class
+faceTools\ImageUtiles.class
+faceTools\Test.class
+faceTools\Test_multi_cuda_demo.class
